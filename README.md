@@ -21,23 +21,23 @@ This project is a modern and lightweight Discord bot built with Discord.js v14 t
 Follow these steps to run the project on your own computer or server:
 
 **1. Clone the Repository:**
-\`\`\`bash
+```bash
 git clone https://github.com/doxria/DiscordTranslateBot.git
 cd DiscordTranslateBot
-\`\`\`
+```
 
 **2. Install Dependencies:**
-\`\`\`bash
+```bash
 npm install discord.js better-sqlite3 @iamtraction/google-translate
-\`\`\`
+```
 
 **3. Configure Your Token:**
 Open the `main.js` file, scroll to the bottom, and paste your Discord Bot Token where it says `TOKEN_HERE`.
 
 **4. Start the Bot:**
-\`\`\`bash
+```bash
 node .
-\`\`\`
+```
 
 ## 📖 How to Use
 
